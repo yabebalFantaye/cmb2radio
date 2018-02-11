@@ -1,0 +1,12 @@
+[submodule "hide"]
+	path = hide
+	url = https://github.com/yabebalFantaye/hide
+[submodule "seek"]
+	path = seek
+	url = https://github.com/yabebalFantaye/seek
+[submodule "tf_unet"]
+	path = tf_unet
+	url = https://github.com/yabebalFantaye/tf_unet
+[submodule "ivy"]
+	path = ivy
+	url = https://github.com/yabebalFantaye/ivy
